@@ -8,6 +8,6 @@ monitoring and improvement of their services. Through this database we
 - Enable healthcare providers to improve efficiency and meet their business goals.
 - Reduce costs through decreased paperwork, improved safety, reduced duplication of testing, and improved health.
 
-<p>
-<imgsrc="https://github.com/Code-F5/patient-health-management-system-1/blob/main/ERD/Initial%20ERD.png">  
-</p>
+## ER Diagram for the project : 
+
+![alt text](https://github.com/Code-F5/patient-health-management-system-1/blob/main/ERD/Initial%20ERD.png?raw=true)
